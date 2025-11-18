@@ -71,7 +71,7 @@ The platform includes a **modern web interface** for patient management, real-ti
 5. **Patient History** - Sidebar with saved patient records
 6. **Export Options** - Download reports and analysis results
 
-### Sample Output
+### Example
 
 ```json
 {
@@ -93,6 +93,33 @@ The platform includes a **modern web interface** for patient management, real-ti
 ```
 
 ***
+
+
+## 📊 Sample Output
+
+<div align="center">
+
+### Interface Screenshots
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/9a6a548a-285e-40ae-8cb9-fcf1a47f9163" alt="Patient Upload" width="500"/></td>
+    <td><img src="https://github.com/user-attachments/assets/b03c454b-c00e-48e3-811d-c41c4c0bda2d" alt="Analysis Results" width="500"/></td>
+    <td><img src="https://github.com/user-attachments/assets/d6fb00f3-b8d8-4739-962d-f6fc0fb1fc23" alt="ECG Chart View" width="500"/></td>
+  </tr>
+  <tr>
+    <td align="center"><b>1. Landing Page</b></td>
+    <td align="center"><b>2. Analysis Results</b></td>
+    <td align="center"><b>3. ECG Chart View</b></td>
+  </tr>
+</table>
+
+</div>
+
+
+***
+
+
 
 ## 🚀 Installation
 
@@ -263,29 +290,6 @@ Returns model metadata and configuration.
   "sampling_rate": 360
 }
 ```
-***
-## 📊 Sample Output
-
-<div align="center">
-
-### Interface Screenshots
-
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/9a6a548a-285e-40ae-8cb9-fcf1a47f9163" alt="Patient Upload" width="500"/></td>
-    <td><img src="https://github.com/user-attachments/assets/b03c454b-c00e-48e3-811d-c41c4c0bda2d" alt="Analysis Results" width="500"/></td>
-    <td><img src="https://github.com/user-attachments/assets/d6fb00f3-b8d8-4739-962d-f6fc0fb1fc23" alt="ECG Chart View" width="500"/></td>
-  </tr>
-  <tr>
-    <td align="center"><b>1. Landing Page</b></td>
-    <td align="center"><b>2. Analysis Results</b></td>
-    <td align="center"><b>3. ECG Chart View</b></td>
-  </tr>
-</table>
-
-</div>
-
----
 ***
 
 ## 📂 Project Structure
